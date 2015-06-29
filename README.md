@@ -1,0 +1,1 @@
+Whistler color theme for Firefox OS.
