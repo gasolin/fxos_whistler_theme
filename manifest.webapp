@@ -1,0 +1,8 @@
+{
+  "name": "Whistler",
+  "description": "Picking colors from whistler Inuksuk (stone man) to memorize the mozilla whislter workweek",
+  "developer": {
+    "name": "gasolin"
+  },
+  "package_path": "application.zip"
+}
